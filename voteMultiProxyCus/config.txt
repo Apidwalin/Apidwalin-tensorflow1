@@ -1,0 +1,9 @@
+{
+    "server_id": "30688",
+    "gameid" : "dwalinzamak01",
+    "api_key" : "Pong11299",
+    "game_name" : "-Level-Ro--%E0%B9%84%E0%B8%AE%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-5-%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%8F%E0%B8%B2%E0%B8%84%E0%B8%A1-2564-30688",
+    "rang" : 50000,
+    "max_workers" : 25,
+    "server_api" : "http://127.0.0.1:8080/"
+}
